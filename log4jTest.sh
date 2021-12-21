@@ -31,9 +31,9 @@ function functionu(){
 echo ""
 echo -e "Checking for log4j vulnerability on \033[31m$uo\033[m"
 
-null=$(curl -sk $uo -H "$payload1"  --proxy 127.0.0.1:8080 --connect-timeout 2 -m 5)
+null=$(curl -sk $uo -H "$payload1" --connect-timeout 2 -m 5)
 
-null=$(curl -sk $uo -H "$payload2" -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:94.0) Gecko/20100101 Firefox/94.0' --proxy 127.0.0.1:8080 --connect-timeout 2 -m 5)
+null=$(curl -sk $uo -H "$payload2" -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:94.0) Gecko/20100101 Firefox/94.0' --connect-timeout 2 -m 5)
 
 }
 

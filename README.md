@@ -20,5 +20,18 @@ eg: ./log4jTest.sh -u https://example.com
 eg: ./log4jTest.sh -l ./path/URLlist.txt
 ```
 
+## Demo:
+
+```Single URL Test```
+
+![](https://raw.githubusercontent.com/abhiunix/log4j-test/master/resources/singleURL.png)
+
+```List of URLs```
+
+![](https://raw.githubusercontent.com/abhiunix/log4j-test/master/resources/working.gif)
+
+```Request Format```
+
+![](https://raw.githubusercontent.com/abhiunix/log4j-test/master/resources/RequestFormat.png)
 
 #### Connect @ [![Twitter](https://img.shields.io/badge/-abhiunix-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/abhiunix/)](https://twitter.com/abhiunix/)

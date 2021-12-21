@@ -13,10 +13,10 @@ It supports single URL check as well as list of domains to test.
 Usage:
   -h   Show basic help message and exit
   -u   Target URL (e.g. 'http://www.site.com/')
-  -U   Target URL list file.
+  -l   Target URL list file.
 
 eg: ./log4jTest.sh -u https://example.com
-eg: ./log4jTest.sh -U ./path/URLlist.txt
+eg: ./log4jTest.sh -l ./path/URLlist.txt
 ```
 
 

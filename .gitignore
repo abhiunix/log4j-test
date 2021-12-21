@@ -1,3 +1,5 @@
 **/test
 *.txt
-*.testtest.sh
+*.test
+test.sh
+push.sh

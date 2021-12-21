@@ -4,7 +4,8 @@ This script sends all header payload to the server.
 It supports single URL check as well as list of domains to test.
 
 ## Features
-
+- Use your own permanent token.
+  Get your free canary token from http://canarytokens.org/generate and replace the payload in log4jTest.sh file.
 - Supports single url for test.
 - Supports list of URLs.
 

@@ -52,13 +52,12 @@ fi
 
 toolsCheck
 
-while getopts u:p:l:hc options; do
+while getopts u:l:hc options; do
 
 		case $options in
 				u) uo=$OPTARG;;
 				l) lo=$OPTARG;;
 				h) ho=$OPTARG;;
-				p) po=$OPTARG;;
 				*) echo "Try using valid options. use -h to show help menu.";;
 
 		esac

